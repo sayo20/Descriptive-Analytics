@@ -1,0 +1,1214 @@
+cid,gender,age,dhb2015_code,dhb2015_name,date,status
+217,Male,91,2,Waitematā,2020-03-25,confirmed
+218,,74,2,Waitematā,2020-03-25,confirmed
+219,Male,50,2,Waitematā,2020-03-25,confirmed
+220,Male,48,2,Waitematā,2020-03-25,confirmed
+221,Male,36,2,Waitematā,2020-03-25,confirmed
+222,Female,62,2,Waitematā,2020-03-25,confirmed
+223,Female,,2,Waitematā,2020-03-25,confirmed
+224,Female,31,2,Waitematā,2020-03-25,confirmed
+225,,21,2,Waitematā,2020-03-25,confirmed
+226,Male,66,5,Waikato,2020-03-25,confirmed
+227,Male,63,5,Waikato,2020-03-25,confirmed
+228,,57,5,Waikato,2020-03-25,confirmed
+229,Male,43,5,Waikato,2020-03-25,confirmed
+230,Male,42,5,Waikato,2020-03-25,confirmed
+231,,37,5,Waikato,2020-03-25,confirmed
+232,Male,24,5,Waikato,2020-03-25,confirmed
+233,Male,20,5,Waikato,2020-03-25,confirmed
+234,Male,26,5,Waikato,2020-03-25,confirmed
+235,,19,5,Waikato,2020-03-25,confirmed
+236,Female,76,5,Waikato,2020-03-25,confirmed
+237,,65,5,Waikato,2020-03-25,confirmed
+238,Female,69,5,Waikato,2020-03-25,confirmed
+239,Female,59,5,Waikato,2020-03-25,confirmed
+240,Female,47,5,Waikato,2020-03-25,confirmed
+241,Female,49,5,Waikato,2020-03-25,confirmed
+242,Female,31,5,Waikato,2020-03-25,confirmed
+243,Female,39,5,Waikato,2020-03-25,confirmed
+244,Female,20,5,Waikato,2020-03-25,confirmed
+245,Female,28,5,Waikato,2020-03-25,confirmed
+246,Female,26,9,Taranaki,2020-03-25,confirmed
+247,Male,68,22,Southern,2020-03-25,confirmed
+248,Male,61,22,Southern,2020-03-25,confirmed
+249,,50,22,Southern,2020-03-25,confirmed
+250,Male,26,22,Southern,2020-03-25,confirmed
+251,Male,27,22,Southern,2020-03-25,confirmed
+252,Male,21,22,Southern,2020-03-25,confirmed
+253,Female,41,22,Southern,2020-03-25,confirmed
+254,Female,34,22,Southern,2020-03-25,confirmed
+255,Female,31,22,Southern,2020-03-25,confirmed
+256,Male,62,1,Northland,2020-03-25,confirmed
+257,Female,,1,Northland,2020-03-25,confirmed
+258,Male,,16,Nelson Marlborough,2020-03-25,confirmed
+259,Male,54,16,Nelson Marlborough,2020-03-25,confirmed
+260,,35,16,Nelson Marlborough,2020-03-25,confirmed
+261,Male,54,12,MidCentral,2020-03-25,confirmed
+262,,56,6,Lakes,2020-03-25,confirmed
+263,Female,26,6,Lakes,2020-03-25,confirmed
+264,Female,20,6,Lakes,2020-03-25,confirmed
+265,Male,42,13,Hutt Valley,2020-03-25,confirmed
+266,Male,73,10,Hawke's Bay,2020-03-25,confirmed
+267,Female,63,10,Hawke's Bay,2020-03-25,confirmed
+268,,55,10,Hawke's Bay,2020-03-25,confirmed
+269,,68,4,Counties Manukau,2020-03-25,confirmed
+270,Male,12,4,Counties Manukau,2020-03-25,confirmed
+271,Female,59,4,Counties Manukau,2020-03-25,confirmed
+272,Female,17,4,Counties Manukau,2020-03-25,confirmed
+273,Female,17,4,Counties Manukau,2020-03-25,confirmed
+274,Female,13,4,Counties Manukau,2020-03-25,confirmed
+275,Male,58,14,Capital and Coast,2020-03-25,confirmed
+276,,37,14,Capital and Coast,2020-03-25,confirmed
+277,Male,28,14,Capital and Coast,2020-03-25,confirmed
+278,Female,21,14,Capital and Coast,2020-03-25,confirmed
+279,Female,44,18,Canterbury,2020-03-25,confirmed
+280,Female,28,18,Canterbury,2020-03-25,confirmed
+281,Female,23,18,Canterbury,2020-03-25,confirmed
+282,Female,15,18,Canterbury,2020-03-25,confirmed
+283,Male,89,7,Bay of Plenty,2020-03-25,confirmed
+284,,63,7,Bay of Plenty,2020-03-25,confirmed
+285,Male,,3,Auckland,2020-03-25,confirmed
+286,Male,40,3,Auckland,2020-03-25,confirmed
+287,Male,31,3,Auckland,2020-03-25,confirmed
+288,Male,30,3,Auckland,2020-03-25,confirmed
+289,Female,60,3,Auckland,2020-03-25,confirmed
+290,Female,35,3,Auckland,2020-03-25,confirmed
+291,Female,24,3,Auckland,2020-03-25,confirmed
+292,Female,29,3,Auckland,2020-03-25,confirmed
+293,Female,29,3,Auckland,2020-03-25,confirmed
+294,,28,3,Auckland,2020-03-25,confirmed
+295,Female,17,3,Auckland,2020-03-25,confirmed
+296,Male,,17,West Coast,2020-03-26,confirmed
+297,Female,82,17,West Coast,2020-03-26,confirmed
+298,Male,57,2,Waitematā,2020-03-26,confirmed
+299,Male,57,2,Waitematā,2020-03-26,confirmed
+300,Male,45,2,Waitematā,2020-03-26,confirmed
+301,Female,40,2,Waitematā,2020-03-26,confirmed
+302,Female,46,2,Waitematā,2020-03-26,confirmed
+303,Female,34,2,Waitematā,2020-03-26,confirmed
+304,Female,29,2,Waitematā,2020-03-26,confirmed
+305,Female,28,2,Waitematā,2020-03-26,confirmed
+306,Male,72,5,Waikato,2020-03-26,confirmed
+307,,61,5,Waikato,2020-03-26,confirmed
+308,,62,5,Waikato,2020-03-26,confirmed
+309,Male,53,5,Waikato,2020-03-26,confirmed
+310,Male,43,5,Waikato,2020-03-26,confirmed
+311,Male,22,5,Waikato,2020-03-26,confirmed
+312,Female,69,5,Waikato,2020-03-26,confirmed
+313,,21,5,Waikato,2020-03-26,confirmed
+314,Female,23,5,Waikato,2020-03-26,confirmed
+315,Female,18,5,Waikato,2020-03-26,confirmed
+316,Male,56,9,Taranaki,2020-03-26,confirmed
+317,Male,54,8,Tairāwhiti,2020-03-26,confirmed
+318,,79,22,Southern,2020-03-26,confirmed
+319,Male,51,22,Southern,2020-03-26,confirmed
+320,Male,56,22,Southern,2020-03-26,confirmed
+321,Male,,22,Southern,2020-03-26,confirmed
+322,Female,96,22,Southern,2020-03-26,confirmed
+323,Female,65,22,Southern,2020-03-26,confirmed
+324,Female,44,22,Southern,2020-03-26,confirmed
+325,,23,1,Northland,2020-03-26,confirmed
+326,,63,6,Lakes,2020-03-26,confirmed
+327,Female,58,13,Hutt Valley,2020-03-26,confirmed
+328,Female,44,13,Hutt Valley,2020-03-26,confirmed
+329,Female,35,13,Hutt Valley,2020-03-26,confirmed
+330,Female,27,13,Hutt Valley,2020-03-26,confirmed
+331,Male,75,10,Hawke's Bay,2020-03-26,confirmed
+332,Male,58,10,Hawke's Bay,2020-03-26,confirmed
+333,,67,10,Hawke's Bay,2020-03-26,confirmed
+334,Female,20,10,Hawke's Bay,2020-03-26,confirmed
+335,Male,32,4,Counties Manukau,2020-03-26,confirmed
+336,Female,67,4,Counties Manukau,2020-03-26,confirmed
+337,Female,56,4,Counties Manukau,2020-03-26,confirmed
+338,Male,45,14,Capital and Coast,2020-03-26,confirmed
+339,Female,,14,Capital and Coast,2020-03-26,confirmed
+340,Male,53,18,Canterbury,2020-03-26,confirmed
+341,Male,56,18,Canterbury,2020-03-26,confirmed
+342,Male,33,18,Canterbury,2020-03-26,confirmed
+343,Male,25,18,Canterbury,2020-03-26,confirmed
+344,Male,22,18,Canterbury,2020-03-26,confirmed
+345,Female,30,18,Canterbury,2020-03-26,confirmed
+346,Female,30,18,Canterbury,2020-03-26,confirmed
+347,Female,33,18,Canterbury,2020-03-26,confirmed
+348,Female,23,18,Canterbury,2020-03-26,confirmed
+349,Female,4,18,Canterbury,2020-03-26,confirmed
+350,,24,7,Bay of Plenty,2020-03-26,confirmed
+351,Female,26,7,Bay of Plenty,2020-03-26,confirmed
+352,Male,74,3,Auckland,2020-03-26,confirmed
+353,Male,44,3,Auckland,2020-03-26,confirmed
+354,Male,24,3,Auckland,2020-03-26,confirmed
+355,Female,49,3,Auckland,2020-03-26,confirmed
+356,Female,39,3,Auckland,2020-03-26,confirmed
+357,Female,32,3,Auckland,2020-03-26,confirmed
+358,Female,39,3,Auckland,2020-03-26,confirmed
+359,Female,29,3,Auckland,2020-03-26,confirmed
+360,Female,28,3,Auckland,2020-03-26,confirmed
+361,Female,26,3,Auckland,2020-03-26,confirmed
+362,Female,16,3,Auckland,2020-03-26,confirmed
+363,,27,11,Whanganui,2020-03-27,confirmed
+364,Male,20,11,Whanganui,2020-03-27,confirmed
+365,Male,21,11,Whanganui,2020-03-27,confirmed
+366,Male,30,2,Waitematā,2020-03-27,confirmed
+367,Male,28,2,Waitematā,2020-03-27,confirmed
+368,,,5,Waikato,2020-03-27,confirmed
+369,Male,53,5,Waikato,2020-03-27,confirmed
+370,Male,45,5,Waikato,2020-03-27,confirmed
+371,Male,20,5,Waikato,2020-03-27,confirmed
+372,Male,18,5,Waikato,2020-03-27,confirmed
+373,Female,48,5,Waikato,2020-03-27,confirmed
+374,Female,41,5,Waikato,2020-03-27,confirmed
+375,Female,37,5,Waikato,2020-03-27,confirmed
+376,Female,35,5,Waikato,2020-03-27,confirmed
+377,Female,25,5,Waikato,2020-03-27,confirmed
+378,Female,15,5,Waikato,2020-03-27,confirmed
+379,Male,72,9,Taranaki,2020-03-27,confirmed
+380,Male,56,9,Taranaki,2020-03-27,confirmed
+381,Male,28,9,Taranaki,2020-03-27,confirmed
+382,Female,36,9,Taranaki,2020-03-27,confirmed
+383,Female,15,9,Taranaki,2020-03-27,confirmed
+384,Male,52,22,Southern,2020-03-27,confirmed
+385,,50,22,Southern,2020-03-27,confirmed
+386,Male,52,22,Southern,2020-03-27,confirmed
+387,Male,55,22,Southern,2020-03-27,confirmed
+388,Male,46,22,Southern,2020-03-27,confirmed
+389,Male,33,22,Southern,2020-03-27,confirmed
+390,Male,24,22,Southern,2020-03-27,confirmed
+391,Male,25,22,Southern,2020-03-27,confirmed
+392,Male,28,22,Southern,2020-03-27,confirmed
+393,Male,25,22,Southern,2020-03-27,confirmed
+394,Female,77,22,Southern,2020-03-27,confirmed
+395,Female,69,22,Southern,2020-03-27,confirmed
+396,Female,52,22,Southern,2020-03-27,confirmed
+397,,51,22,Southern,2020-03-27,confirmed
+398,Female,56,22,Southern,2020-03-27,confirmed
+399,Female,,22,Southern,2020-03-27,confirmed
+400,,20,22,Southern,2020-03-27,confirmed
+401,,22,22,Southern,2020-03-27,confirmed
+402,Female,27,22,Southern,2020-03-27,confirmed
+403,Female,64,19,South Canterbury,2020-03-27,confirmed
+404,,44,19,South Canterbury,2020-03-27,confirmed
+405,Female,26,19,South Canterbury,2020-03-27,confirmed
+406,Female,4,19,South Canterbury,2020-03-27,confirmed
+407,Female,62,12,MidCentral,2020-03-27,confirmed
+408,Female,56,12,MidCentral,2020-03-27,confirmed
+409,Male,64,13,Hutt Valley,2020-03-27,confirmed
+410,Female,62,13,Hutt Valley,2020-03-27,confirmed
+411,Female,30,13,Hutt Valley,2020-03-27,confirmed
+412,,24,10,Hawke's Bay,2020-03-27,confirmed
+413,Male,39,4,Counties Manukau,2020-03-27,confirmed
+414,Female,55,4,Counties Manukau,2020-03-27,confirmed
+415,Female,49,4,Counties Manukau,2020-03-27,confirmed
+416,Female,35,4,Counties Manukau,2020-03-27,confirmed
+417,Female,26,4,Counties Manukau,2020-03-27,confirmed
+418,Male,54,14,Capital and Coast,2020-03-27,confirmed
+419,Male,20,14,Capital and Coast,2020-03-27,confirmed
+420,Female,56,14,Capital and Coast,2020-03-27,confirmed
+421,Male,66,18,Canterbury,2020-03-27,confirmed
+422,Female,19,18,Canterbury,2020-03-27,confirmed
+423,Female,,18,Canterbury,2020-03-27,confirmed
+424,Male,71,7,Bay of Plenty,2020-03-27,confirmed
+425,Male,47,7,Bay of Plenty,2020-03-27,confirmed
+426,Female,24,7,Bay of Plenty,2020-03-27,confirmed
+427,Male,,3,Auckland,2020-03-27,confirmed
+428,Male,47,3,Auckland,2020-03-27,confirmed
+429,Male,25,3,Auckland,2020-03-27,confirmed
+430,,78,3,Auckland,2020-03-27,confirmed
+431,Female,67,3,Auckland,2020-03-27,confirmed
+432,Female,18,3,Auckland,2020-03-27,confirmed
+433,Male,79,2,Waitematā,2020-03-28,confirmed
+434,Male,42,2,Waitematā,2020-03-28,confirmed
+435,Male,41,2,Waitematā,2020-03-28,confirmed
+436,Male,23,2,Waitematā,2020-03-28,confirmed
+437,Female,,2,Waitematā,2020-03-28,confirmed
+438,,44,2,Waitematā,2020-03-28,confirmed
+439,Female,26,2,Waitematā,2020-03-28,confirmed
+440,Female,25,2,Waitematā,2020-03-28,confirmed
+441,Female,23,2,Waitematā,2020-03-28,confirmed
+442,Female,18,2,Waitematā,2020-03-28,confirmed
+443,Female,19,2,Waitematā,2020-03-28,confirmed
+444,Female,10,2,Waitematā,2020-03-28,confirmed
+445,Female,13,2,Waitematā,2020-03-28,confirmed
+446,Female,76,5,Waikato,2020-03-28,confirmed
+447,,37,5,Waikato,2020-03-28,confirmed
+448,,3,5,Waikato,2020-03-28,confirmed
+449,,44,22,Southern,2020-03-28,confirmed
+450,Male,48,22,Southern,2020-03-28,confirmed
+451,Male,27,22,Southern,2020-03-28,confirmed
+452,Male,26,22,Southern,2020-03-28,confirmed
+453,Female,68,22,Southern,2020-03-28,confirmed
+454,Female,52,22,Southern,2020-03-28,confirmed
+455,,53,22,Southern,2020-03-28,confirmed
+456,Female,41,22,Southern,2020-03-28,confirmed
+457,Female,40,22,Southern,2020-03-28,confirmed
+458,Female,35,22,Southern,2020-03-28,confirmed
+459,Female,28,22,Southern,2020-03-28,confirmed
+460,Female,23,22,Southern,2020-03-28,confirmed
+461,Female,20,22,Southern,2020-03-28,confirmed
+462,Male,64,19,South Canterbury,2020-03-28,confirmed
+463,Male,39,16,Nelson Marlborough,2020-03-28,confirmed
+464,Female,34,12,MidCentral,2020-03-28,confirmed
+465,Female,23,6,Lakes,2020-03-28,confirmed
+466,Male,81,10,Hawke's Bay,2020-03-28,confirmed
+467,Male,47,4,Counties Manukau,2020-03-28,confirmed
+468,Female,68,4,Counties Manukau,2020-03-28,confirmed
+469,Female,52,4,Counties Manukau,2020-03-28,confirmed
+470,,45,4,Counties Manukau,2020-03-28,confirmed
+471,Female,,4,Counties Manukau,2020-03-28,confirmed
+472,Female,30,4,Counties Manukau,2020-03-28,confirmed
+473,Female,52,14,Capital and Coast,2020-03-28,confirmed
+474,Female,49,14,Capital and Coast,2020-03-28,confirmed
+475,Female,21,14,Capital and Coast,2020-03-28,confirmed
+476,Female,20,14,Capital and Coast,2020-03-28,confirmed
+477,Female,17,14,Capital and Coast,2020-03-28,confirmed
+478,Male,41,18,Canterbury,2020-03-28,confirmed
+479,Male,31,18,Canterbury,2020-03-28,confirmed
+480,Female,,18,Canterbury,2020-03-28,confirmed
+481,Female,22,18,Canterbury,2020-03-28,confirmed
+482,Female,25,18,Canterbury,2020-03-28,confirmed
+483,Female,82,7,Bay of Plenty,2020-03-28,confirmed
+484,Female,21,7,Bay of Plenty,2020-03-28,confirmed
+485,Male,64,3,Auckland,2020-03-28,confirmed
+486,,66,3,Auckland,2020-03-28,confirmed
+487,Male,67,3,Auckland,2020-03-28,confirmed
+488,,30,3,Auckland,2020-03-28,confirmed
+489,Female,50,3,Auckland,2020-03-28,confirmed
+490,Female,38,3,Auckland,2020-03-28,confirmed
+491,Female,38,3,Auckland,2020-03-28,confirmed
+492,,38,3,Auckland,2020-03-28,confirmed
+493,,25,3,Auckland,2020-03-28,confirmed
+494,Female,22,3,Auckland,2020-03-28,confirmed
+495,Female,19,3,Auckland,2020-03-28,confirmed
+496,,14,3,Auckland,2020-03-28,confirmed
+497,Female,12,3,Auckland,2020-03-28,confirmed
+498,Male,52,2,Waitematā,2020-03-29,confirmed
+499,Male,54,2,Waitematā,2020-03-29,confirmed
+500,Male,46,2,Waitematā,2020-03-29,confirmed
+501,Male,20,2,Waitematā,2020-03-29,confirmed
+502,Male,26,2,Waitematā,2020-03-29,confirmed
+503,Male,28,2,Waitematā,2020-03-29,confirmed
+504,Male,16,2,Waitematā,2020-03-29,confirmed
+505,Male,18,2,Waitematā,2020-03-29,confirmed
+506,Female,64,2,Waitematā,2020-03-29,confirmed
+507,Female,54,2,Waitematā,2020-03-29,confirmed
+508,Female,,2,Waitematā,2020-03-29,confirmed
+509,Female,27,2,Waitematā,2020-03-29,confirmed
+510,Female,17,2,Waitematā,2020-03-29,confirmed
+511,Female,18,2,Waitematā,2020-03-29,confirmed
+512,Male,69,5,Waikato,2020-03-29,confirmed
+513,Male,53,5,Waikato,2020-03-29,confirmed
+514,Male,42,5,Waikato,2020-03-29,confirmed
+515,,49,5,Waikato,2020-03-29,confirmed
+516,Male,45,5,Waikato,2020-03-29,confirmed
+517,Male,32,5,Waikato,2020-03-29,confirmed
+518,Male,20,5,Waikato,2020-03-29,confirmed
+519,Male,21,5,Waikato,2020-03-29,confirmed
+520,Female,61,5,Waikato,2020-03-29,confirmed
+521,Female,52,5,Waikato,2020-03-29,confirmed
+522,Female,54,5,Waikato,2020-03-29,confirmed
+523,Female,40,5,Waikato,2020-03-29,confirmed
+524,Female,41,5,Waikato,2020-03-29,confirmed
+525,Female,42,5,Waikato,2020-03-29,confirmed
+526,Female,32,5,Waikato,2020-03-29,confirmed
+527,Female,31,5,Waikato,2020-03-29,confirmed
+528,,68,22,Southern,2020-03-29,confirmed
+529,Male,65,22,Southern,2020-03-29,confirmed
+530,Male,49,22,Southern,2020-03-29,confirmed
+531,Male,27,22,Southern,2020-03-29,confirmed
+532,,46,22,Southern,2020-03-29,confirmed
+533,Female,43,22,Southern,2020-03-29,confirmed
+534,Female,43,22,Southern,2020-03-29,confirmed
+535,Female,23,22,Southern,2020-03-29,confirmed
+536,Female,23,22,Southern,2020-03-29,confirmed
+537,Female,25,22,Southern,2020-03-29,confirmed
+538,Female,27,22,Southern,2020-03-29,confirmed
+539,Female,19,22,Southern,2020-03-29,confirmed
+540,Male,78,19,South Canterbury,2020-03-29,confirmed
+541,Female,45,1,Northland,2020-03-29,confirmed
+542,Female,28,1,Northland,2020-03-29,confirmed
+543,Female,24,16,Nelson Marlborough,2020-03-29,confirmed
+544,Female,44,12,MidCentral,2020-03-29,confirmed
+545,Male,23,4,Counties Manukau,2020-03-29,confirmed
+546,Male,22,4,Counties Manukau,2020-03-29,confirmed
+547,Female,22,4,Counties Manukau,2020-03-29,confirmed
+548,Female,10,4,Counties Manukau,2020-03-29,confirmed
+549,Male,78,14,Capital and Coast,2020-03-29,confirmed
+550,Male,35,14,Capital and Coast,2020-03-29,confirmed
+551,Male,20,14,Capital and Coast,2020-03-29,confirmed
+552,Female,40,14,Capital and Coast,2020-03-29,confirmed
+553,Female,34,14,Capital and Coast,2020-03-29,confirmed
+554,Female,24,14,Capital and Coast,2020-03-29,confirmed
+555,Female,29,14,Capital and Coast,2020-03-29,confirmed
+556,Male,25,18,Canterbury,2020-03-29,confirmed
+557,Male,62,3,Auckland,2020-03-29,confirmed
+558,Male,56,3,Auckland,2020-03-29,confirmed
+559,Male,42,3,Auckland,2020-03-29,confirmed
+560,,47,3,Auckland,2020-03-29,confirmed
+561,Male,44,3,Auckland,2020-03-29,confirmed
+562,Female,52,3,Auckland,2020-03-29,confirmed
+563,Female,40,3,Auckland,2020-03-29,confirmed
+564,Female,26,3,Auckland,2020-03-29,confirmed
+565,Male,25,2,Waitematā,2020-03-30,confirmed
+566,Male,18,2,Waitematā,2020-03-30,confirmed
+567,Female,87,2,Waitematā,2020-03-30,confirmed
+568,,48,2,Waitematā,2020-03-30,confirmed
+569,Female,24,2,Waitematā,2020-03-30,confirmed
+570,Female,26,2,Waitematā,2020-03-30,confirmed
+571,Male,36,5,Waikato,2020-03-30,confirmed
+572,Female,,5,Waikato,2020-03-30,confirmed
+573,Female,48,5,Waikato,2020-03-30,confirmed
+574,Female,17,5,Waikato,2020-03-30,confirmed
+575,Female,29,9,Taranaki,2020-03-30,confirmed
+576,Male,69,22,Southern,2020-03-30,confirmed
+577,Male,24,22,Southern,2020-03-30,confirmed
+578,Male,26,22,Southern,2020-03-30,confirmed
+579,Male,10,22,Southern,2020-03-30,confirmed
+580,Female,65,22,Southern,2020-03-30,confirmed
+581,Female,61,22,Southern,2020-03-30,confirmed
+582,Female,28,22,Southern,2020-03-30,confirmed
+583,Female,16,22,Southern,2020-03-30,confirmed
+584,Female,19,22,Southern,2020-03-30,confirmed
+585,,35,19,South Canterbury,2020-03-30,confirmed
+586,Male,55,1,Northland,2020-03-30,confirmed
+587,Female,28,16,Nelson Marlborough,2020-03-30,confirmed
+588,,29,12,MidCentral,2020-03-30,confirmed
+589,Male,37,6,Lakes,2020-03-30,confirmed
+590,Female,32,6,Lakes,2020-03-30,confirmed
+591,Male,84,10,Hawke's Bay,2020-03-30,confirmed
+592,Male,34,10,Hawke's Bay,2020-03-30,confirmed
+593,Female,88,10,Hawke's Bay,2020-03-30,confirmed
+594,Male,46,4,Counties Manukau,2020-03-30,confirmed
+595,Male,28,4,Counties Manukau,2020-03-30,confirmed
+596,Female,59,4,Counties Manukau,2020-03-30,confirmed
+597,Female,44,4,Counties Manukau,2020-03-30,confirmed
+598,Female,22,4,Counties Manukau,2020-03-30,confirmed
+599,Female,25,4,Counties Manukau,2020-03-30,confirmed
+600,Female,26,4,Counties Manukau,2020-03-30,confirmed
+601,Female,,18,Canterbury,2020-03-30,confirmed
+602,Male,40,7,Bay of Plenty,2020-03-30,confirmed
+603,Male,45,7,Bay of Plenty,2020-03-30,confirmed
+604,,48,7,Bay of Plenty,2020-03-30,confirmed
+605,Female,,7,Bay of Plenty,2020-03-30,confirmed
+606,Male,40,3,Auckland,2020-03-30,confirmed
+607,Male,28,3,Auckland,2020-03-30,confirmed
+608,Male,72,2,Waitematā,2020-03-31,confirmed
+609,Male,47,2,Waitematā,2020-03-31,confirmed
+610,,12,2,Waitematā,2020-03-31,confirmed
+611,Female,63,2,Waitematā,2020-03-31,confirmed
+612,Female,57,2,Waitematā,2020-03-31,confirmed
+613,Female,42,2,Waitematā,2020-03-31,confirmed
+614,Female,36,2,Waitematā,2020-03-31,confirmed
+615,Female,22,2,Waitematā,2020-03-31,confirmed
+616,Female,13,2,Waitematā,2020-03-31,confirmed
+617,Female,22,15,Wairarapa,2020-03-31,confirmed
+618,Male,53,5,Waikato,2020-03-31,confirmed
+619,Male,59,5,Waikato,2020-03-31,confirmed
+620,Male,53,5,Waikato,2020-03-31,confirmed
+621,Male,56,5,Waikato,2020-03-31,confirmed
+622,Male,42,5,Waikato,2020-03-31,confirmed
+623,Male,40,5,Waikato,2020-03-31,confirmed
+624,,47,5,Waikato,2020-03-31,confirmed
+625,Male,37,5,Waikato,2020-03-31,confirmed
+626,Male,39,5,Waikato,2020-03-31,confirmed
+627,Male,37,5,Waikato,2020-03-31,confirmed
+628,Male,29,5,Waikato,2020-03-31,confirmed
+629,Male,22,5,Waikato,2020-03-31,confirmed
+630,Female,69,5,Waikato,2020-03-31,confirmed
+631,Female,63,5,Waikato,2020-03-31,confirmed
+632,Female,58,5,Waikato,2020-03-31,confirmed
+633,Female,40,5,Waikato,2020-03-31,confirmed
+634,Female,48,5,Waikato,2020-03-31,confirmed
+635,Female,42,5,Waikato,2020-03-31,confirmed
+636,Female,,5,Waikato,2020-03-31,confirmed
+637,Female,42,5,Waikato,2020-03-31,confirmed
+638,Female,32,5,Waikato,2020-03-31,confirmed
+639,Female,22,5,Waikato,2020-03-31,confirmed
+640,Female,29,5,Waikato,2020-03-31,confirmed
+641,Female,15,5,Waikato,2020-03-31,confirmed
+642,Male,76,22,Southern,2020-03-31,confirmed
+643,Male,,22,Southern,2020-03-31,confirmed
+644,Male,46,22,Southern,2020-03-31,confirmed
+645,Female,67,22,Southern,2020-03-31,confirmed
+646,Female,,22,Southern,2020-03-31,confirmed
+647,Female,20,22,Southern,2020-03-31,confirmed
+648,Female,25,22,Southern,2020-03-31,confirmed
+649,Female,34,1,Northland,2020-03-31,confirmed
+650,Male,27,16,Nelson Marlborough,2020-03-31,confirmed
+651,Female,22,16,Nelson Marlborough,2020-03-31,confirmed
+652,Male,,12,MidCentral,2020-03-31,confirmed
+653,Male,50,12,MidCentral,2020-03-31,confirmed
+654,,80,12,MidCentral,2020-03-31,confirmed
+655,,58,12,MidCentral,2020-03-31,confirmed
+656,Male,51,13,Hutt Valley,2020-03-31,confirmed
+657,Male,62,4,Counties Manukau,2020-03-31,confirmed
+658,Male,20,4,Counties Manukau,2020-03-31,confirmed
+659,Female,32,4,Counties Manukau,2020-03-31,confirmed
+660,Female,33,4,Counties Manukau,2020-03-31,confirmed
+661,Female,37,4,Counties Manukau,2020-03-31,confirmed
+662,Male,62,14,Capital and Coast,2020-03-31,confirmed
+663,Male,10,14,Capital and Coast,2020-03-31,confirmed
+664,Female,71,18,Canterbury,2020-03-31,confirmed
+665,Female,30,18,Canterbury,2020-03-31,confirmed
+666,Male,,7,Bay of Plenty,2020-03-31,confirmed
+667,Female,52,7,Bay of Plenty,2020-03-31,confirmed
+668,Female,47,3,Auckland,2020-03-31,confirmed
+669,Female,49,3,Auckland,2020-03-31,confirmed
+670,Female,36,3,Auckland,2020-03-31,confirmed
+671,Female,21,3,Auckland,2020-03-31,confirmed
+672,Male,23,11,Whanganui,2020-04-01,confirmed
+673,Female,20,11,Whanganui,2020-04-01,confirmed
+674,Male,33,17,West Coast,2020-04-01,confirmed
+675,Male,67,2,Waitematā,2020-04-01,confirmed
+676,Male,67,2,Waitematā,2020-04-01,confirmed
+677,Male,36,2,Waitematā,2020-04-01,confirmed
+678,Male,36,2,Waitematā,2020-04-01,confirmed
+679,Female,58,2,Waitematā,2020-04-01,confirmed
+680,Female,51,2,Waitematā,2020-04-01,confirmed
+681,Female,38,2,Waitematā,2020-04-01,confirmed
+682,Female,20,2,Waitematā,2020-04-01,confirmed
+683,Female,18,2,Waitematā,2020-04-01,confirmed
+684,,50,5,Waikato,2020-04-01,confirmed
+685,Male,53,5,Waikato,2020-04-01,confirmed
+686,Male,23,5,Waikato,2020-04-01,confirmed
+687,Male,20,5,Waikato,2020-04-01,confirmed
+688,Male,29,5,Waikato,2020-04-01,confirmed
+689,,69,5,Waikato,2020-04-01,confirmed
+690,Female,66,5,Waikato,2020-04-01,confirmed
+691,,53,5,Waikato,2020-04-01,confirmed
+692,Female,37,5,Waikato,2020-04-01,confirmed
+693,Female,37,9,Taranaki,2020-04-01,confirmed
+694,Male,58,22,Southern,2020-04-01,confirmed
+695,Male,52,22,Southern,2020-04-01,confirmed
+696,Male,,22,Southern,2020-04-01,confirmed
+697,Male,39,22,Southern,2020-04-01,confirmed
+698,Male,31,22,Southern,2020-04-01,confirmed
+699,Female,,22,Southern,2020-04-01,confirmed
+700,Female,67,22,Southern,2020-04-01,confirmed
+701,Female,59,22,Southern,2020-04-01,confirmed
+702,Female,58,22,Southern,2020-04-01,confirmed
+703,Female,57,22,Southern,2020-04-01,confirmed
+704,Female,58,22,Southern,2020-04-01,confirmed
+705,Female,35,22,Southern,2020-04-01,confirmed
+706,Female,29,22,Southern,2020-04-01,confirmed
+707,Female,21,22,Southern,2020-04-01,confirmed
+708,Female,12,22,Southern,2020-04-01,confirmed
+709,Female,49,1,Northland,2020-04-01,confirmed
+710,Male,24,16,Nelson Marlborough,2020-04-01,confirmed
+711,Female,,16,Nelson Marlborough,2020-04-01,confirmed
+712,Female,47,16,Nelson Marlborough,2020-04-01,confirmed
+713,Female,33,12,MidCentral,2020-04-01,confirmed
+714,Male,68,10,Hawke's Bay,2020-04-01,confirmed
+715,,21,10,Hawke's Bay,2020-04-01,confirmed
+716,Female,61,10,Hawke's Bay,2020-04-01,confirmed
+717,Female,36,10,Hawke's Bay,2020-04-01,confirmed
+718,Male,63,4,Counties Manukau,2020-04-01,confirmed
+719,Male,65,4,Counties Manukau,2020-04-01,confirmed
+720,Female,60,4,Counties Manukau,2020-04-01,confirmed
+721,Female,29,4,Counties Manukau,2020-04-01,confirmed
+722,Female,29,4,Counties Manukau,2020-04-01,confirmed
+723,Male,40,14,Capital and Coast,2020-04-01,confirmed
+724,Male,88,7,Bay of Plenty,2020-04-01,confirmed
+725,Male,68,7,Bay of Plenty,2020-04-01,confirmed
+726,Male,66,7,Bay of Plenty,2020-04-01,confirmed
+727,Male,24,7,Bay of Plenty,2020-04-01,confirmed
+728,Female,29,7,Bay of Plenty,2020-04-01,confirmed
+729,,84,3,Auckland,2020-04-01,confirmed
+730,Female,44,3,Auckland,2020-04-01,confirmed
+731,Female,,3,Auckland,2020-04-01,confirmed
+732,Male,30,11,Whanganui,2020-04-02,confirmed
+733,Female,39,11,Whanganui,2020-04-02,confirmed
+734,Male,65,2,Waitematā,2020-04-02,confirmed
+735,Male,42,2,Waitematā,2020-04-02,confirmed
+736,Male,,2,Waitematā,2020-04-02,confirmed
+737,Female,59,2,Waitematā,2020-04-02,confirmed
+738,Female,25,2,Waitematā,2020-04-02,confirmed
+739,Male,67,5,Waikato,2020-04-02,confirmed
+740,Male,69,5,Waikato,2020-04-02,confirmed
+741,Male,57,5,Waikato,2020-04-02,confirmed
+742,Male,33,5,Waikato,2020-04-02,confirmed
+743,Male,23,5,Waikato,2020-04-02,confirmed
+744,Female,50,5,Waikato,2020-04-02,confirmed
+745,Female,29,5,Waikato,2020-04-02,confirmed
+746,Male,60,22,Southern,2020-04-02,confirmed
+747,Male,50,22,Southern,2020-04-02,confirmed
+748,Male,50,22,Southern,2020-04-02,confirmed
+749,Male,33,22,Southern,2020-04-02,confirmed
+750,Male,27,22,Southern,2020-04-02,confirmed
+751,Male,23,22,Southern,2020-04-02,confirmed
+752,Male,24,22,Southern,2020-04-02,confirmed
+753,Male,25,22,Southern,2020-04-02,confirmed
+754,Male,17,22,Southern,2020-04-02,confirmed
+755,Female,65,22,Southern,2020-04-02,confirmed
+756,Female,64,22,Southern,2020-04-02,confirmed
+757,Female,59,22,Southern,2020-04-02,confirmed
+758,Female,50,22,Southern,2020-04-02,confirmed
+759,Female,22,22,Southern,2020-04-02,confirmed
+760,Female,27,22,Southern,2020-04-02,confirmed
+761,Female,21,22,Southern,2020-04-02,confirmed
+762,Female,17,22,Southern,2020-04-02,confirmed
+763,,53,1,Northland,2020-04-02,confirmed
+764,Male,29,16,Nelson Marlborough,2020-04-02,confirmed
+765,Female,46,16,Nelson Marlborough,2020-04-02,confirmed
+766,Female,25,16,Nelson Marlborough,2020-04-02,confirmed
+767,Male,30,12,MidCentral,2020-04-02,confirmed
+768,Male,54,13,Hutt Valley,2020-04-02,confirmed
+769,Female,,13,Hutt Valley,2020-04-02,confirmed
+770,Female,26,13,Hutt Valley,2020-04-02,confirmed
+771,Female,24,13,Hutt Valley,2020-04-02,confirmed
+772,,59,10,Hawke's Bay,2020-04-02,confirmed
+773,Female,51,10,Hawke's Bay,2020-04-02,confirmed
+774,Male,67,4,Counties Manukau,2020-04-02,confirmed
+775,Male,61,4,Counties Manukau,2020-04-02,confirmed
+776,Male,38,4,Counties Manukau,2020-04-02,confirmed
+777,,50,4,Counties Manukau,2020-04-02,confirmed
+778,Female,54,4,Counties Manukau,2020-04-02,confirmed
+779,Female,42,14,Capital and Coast,2020-04-02,confirmed
+780,Female,26,14,Capital and Coast,2020-04-02,confirmed
+781,Male,57,18,Canterbury,2020-04-02,confirmed
+782,Female,70,18,Canterbury,2020-04-02,confirmed
+783,Female,40,18,Canterbury,2020-04-02,confirmed
+784,Female,42,18,Canterbury,2020-04-02,confirmed
+785,Male,52,7,Bay of Plenty,2020-04-02,confirmed
+786,Female,59,7,Bay of Plenty,2020-04-02,confirmed
+787,Female,21,7,Bay of Plenty,2020-04-02,confirmed
+788,Male,36,3,Auckland,2020-04-02,confirmed
+789,Male,32,3,Auckland,2020-04-02,confirmed
+790,Female,55,3,Auckland,2020-04-02,confirmed
+791,Male,69,2,Waitematā,2020-04-03,confirmed
+792,Male,66,2,Waitematā,2020-04-03,confirmed
+793,,55,2,Waitematā,2020-04-03,confirmed
+794,,42,2,Waitematā,2020-04-03,confirmed
+795,Female,26,2,Waitematā,2020-04-03,confirmed
+796,Female,26,2,Waitematā,2020-04-03,confirmed
+797,,79,5,Waikato,2020-04-03,confirmed
+798,Male,64,5,Waikato,2020-04-03,confirmed
+799,Male,41,5,Waikato,2020-04-03,confirmed
+800,,36,5,Waikato,2020-04-03,confirmed
+801,Male,29,5,Waikato,2020-04-03,confirmed
+802,Male,15,5,Waikato,2020-04-03,confirmed
+803,Female,72,5,Waikato,2020-04-03,confirmed
+804,Female,56,5,Waikato,2020-04-03,confirmed
+805,Female,59,5,Waikato,2020-04-03,confirmed
+806,Female,27,5,Waikato,2020-04-03,confirmed
+807,Female,13,5,Waikato,2020-04-03,confirmed
+808,Male,59,22,Southern,2020-04-03,confirmed
+809,Male,54,22,Southern,2020-04-03,confirmed
+810,Male,52,22,Southern,2020-04-03,confirmed
+811,Male,29,22,Southern,2020-04-03,confirmed
+812,Male,18,22,Southern,2020-04-03,confirmed
+813,Female,66,22,Southern,2020-04-03,confirmed
+814,,60,22,Southern,2020-04-03,confirmed
+815,Female,51,22,Southern,2020-04-03,confirmed
+816,Female,58,22,Southern,2020-04-03,confirmed
+817,Female,42,22,Southern,2020-04-03,confirmed
+818,Female,33,22,Southern,2020-04-03,confirmed
+819,Female,25,22,Southern,2020-04-03,confirmed
+820,Female,21,22,Southern,2020-04-03,confirmed
+821,Female,17,22,Southern,2020-04-03,confirmed
+822,Male,67,1,Northland,2020-04-03,confirmed
+823,Female,52,1,Northland,2020-04-03,confirmed
+824,Female,47,16,Nelson Marlborough,2020-04-03,confirmed
+825,Male,99,10,Hawke's Bay,2020-04-03,confirmed
+826,Male,36,10,Hawke's Bay,2020-04-03,confirmed
+827,Male,34,10,Hawke's Bay,2020-04-03,confirmed
+828,Female,20,10,Hawke's Bay,2020-04-03,confirmed
+829,Female,15,10,Hawke's Bay,2020-04-03,confirmed
+830,Male,51,4,Counties Manukau,2020-04-03,confirmed
+831,Male,12,4,Counties Manukau,2020-04-03,confirmed
+832,Female,64,4,Counties Manukau,2020-04-03,confirmed
+833,Female,55,4,Counties Manukau,2020-04-03,confirmed
+834,Female,42,4,Counties Manukau,2020-04-03,confirmed
+835,Female,24,4,Counties Manukau,2020-04-03,confirmed
+836,Female,26,4,Counties Manukau,2020-04-03,confirmed
+837,Male,33,14,Capital and Coast,2020-04-03,confirmed
+838,,39,14,Capital and Coast,2020-04-03,confirmed
+839,Female,30,14,Capital and Coast,2020-04-03,confirmed
+840,Male,87,18,Canterbury,2020-04-03,confirmed
+841,Male,68,18,Canterbury,2020-04-03,confirmed
+842,Female,69,18,Canterbury,2020-04-03,confirmed
+843,Female,50,18,Canterbury,2020-04-03,confirmed
+844,Female,43,18,Canterbury,2020-04-03,confirmed
+845,Female,11,3,Auckland,2020-04-03,confirmed
+846,Male,67,2,Waitematā,2020-04-04,confirmed
+847,Male,59,2,Waitematā,2020-04-04,confirmed
+848,,,2,Waitematā,2020-04-04,confirmed
+849,Female,13,2,Waitematā,2020-04-04,confirmed
+850,Male,92,5,Waikato,2020-04-04,confirmed
+851,Male,30,5,Waikato,2020-04-04,confirmed
+852,Male,38,5,Waikato,2020-04-04,confirmed
+853,Female,49,5,Waikato,2020-04-04,confirmed
+854,Male,91,22,Southern,2020-04-04,confirmed
+855,Male,56,22,Southern,2020-04-04,confirmed
+856,Male,29,22,Southern,2020-04-04,confirmed
+857,Female,80,22,Southern,2020-04-04,confirmed
+858,Female,,22,Southern,2020-04-04,confirmed
+859,Female,49,22,Southern,2020-04-04,confirmed
+860,Female,34,22,Southern,2020-04-04,confirmed
+861,Female,20,22,Southern,2020-04-04,confirmed
+862,Female,12,22,Southern,2020-04-04,confirmed
+863,Male,11,1,Northland,2020-04-04,confirmed
+864,Male,35,16,Nelson Marlborough,2020-04-04,confirmed
+865,,72,16,Nelson Marlborough,2020-04-04,confirmed
+866,Female,37,16,Nelson Marlborough,2020-04-04,confirmed
+867,Male,13,12,MidCentral,2020-04-04,confirmed
+868,Female,21,12,MidCentral,2020-04-04,confirmed
+869,Female,50,6,Lakes,2020-04-04,confirmed
+870,Male,33,4,Counties Manukau,2020-04-04,confirmed
+871,Male,21,4,Counties Manukau,2020-04-04,confirmed
+872,Male,28,4,Counties Manukau,2020-04-04,confirmed
+873,Male,28,14,Capital and Coast,2020-04-04,confirmed
+874,Female,54,14,Capital and Coast,2020-04-04,confirmed
+875,Female,39,14,Capital and Coast,2020-04-04,confirmed
+876,Male,73,18,Canterbury,2020-04-04,confirmed
+877,Male,94,18,Canterbury,2020-04-04,confirmed
+878,Male,75,18,Canterbury,2020-04-04,confirmed
+879,Male,85,18,Canterbury,2020-04-04,confirmed
+880,Male,92,18,Canterbury,2020-04-04,confirmed
+881,Male,67,18,Canterbury,2020-04-04,confirmed
+882,Female,80,18,Canterbury,2020-04-04,confirmed
+883,Female,75,18,Canterbury,2020-04-04,confirmed
+884,Female,79,18,Canterbury,2020-04-04,confirmed
+885,Female,47,18,Canterbury,2020-04-04,confirmed
+886,Male,83,3,Auckland,2020-04-04,confirmed
+887,Male,66,3,Auckland,2020-04-04,confirmed
+888,Male,35,3,Auckland,2020-04-04,confirmed
+889,Male,21,3,Auckland,2020-04-04,confirmed
+890,Female,69,3,Auckland,2020-04-04,confirmed
+891,Female,,3,Auckland,2020-04-04,confirmed
+892,Male,54,2,Waitematā,2020-04-05,confirmed
+893,Male,20,2,Waitematā,2020-04-05,confirmed
+894,Female,36,2,Waitematā,2020-04-05,confirmed
+895,Female,25,2,Waitematā,2020-04-05,confirmed
+896,Female,55,5,Waikato,2020-04-05,confirmed
+897,Female,25,5,Waikato,2020-04-05,confirmed
+898,Female,20,5,Waikato,2020-04-05,confirmed
+899,Male,71,22,Southern,2020-04-05,confirmed
+900,Male,65,22,Southern,2020-04-05,confirmed
+901,Male,57,22,Southern,2020-04-05,confirmed
+902,Male,49,22,Southern,2020-04-05,confirmed
+903,,39,22,Southern,2020-04-05,confirmed
+904,Male,38,22,Southern,2020-04-05,confirmed
+905,Male,29,22,Southern,2020-04-05,confirmed
+906,Male,16,22,Southern,2020-04-05,confirmed
+907,Male,6,22,Southern,2020-04-05,confirmed
+908,Female,66,22,Southern,2020-04-05,confirmed
+909,Female,44,22,Southern,2020-04-05,confirmed
+910,Female,32,22,Southern,2020-04-05,confirmed
+911,Female,39,22,Southern,2020-04-05,confirmed
+912,Female,25,22,Southern,2020-04-05,confirmed
+913,Male,39,1,Northland,2020-04-05,confirmed
+914,Female,67,1,Northland,2020-04-05,confirmed
+915,Male,89,16,Nelson Marlborough,2020-04-05,confirmed
+916,Female,77,16,Nelson Marlborough,2020-04-05,confirmed
+917,Male,29,12,MidCentral,2020-04-05,confirmed
+918,Male,28,12,MidCentral,2020-04-05,confirmed
+919,Male,37,10,Hawke's Bay,2020-04-05,confirmed
+920,,62,10,Hawke's Bay,2020-04-05,confirmed
+921,Female,25,10,Hawke's Bay,2020-04-05,confirmed
+922,Male,40,4,Counties Manukau,2020-04-05,confirmed
+923,Male,43,4,Counties Manukau,2020-04-05,confirmed
+924,Male,49,4,Counties Manukau,2020-04-05,confirmed
+925,Female,46,4,Counties Manukau,2020-04-05,confirmed
+926,Female,46,4,Counties Manukau,2020-04-05,confirmed
+927,Female,28,4,Counties Manukau,2020-04-05,confirmed
+928,Female,27,4,Counties Manukau,2020-04-05,confirmed
+929,Female,25,18,Canterbury,2020-04-05,confirmed
+930,Female,,7,Bay of Plenty,2020-04-05,confirmed
+931,Male,22,3,Auckland,2020-04-05,confirmed
+932,Female,64,3,Auckland,2020-04-05,confirmed
+933,Female,66,3,Auckland,2020-04-05,confirmed
+934,Female,27,3,Auckland,2020-04-05,confirmed
+935,Female,21,3,Auckland,2020-04-05,confirmed
+936,Male,41,5,Waikato,2020-04-06,confirmed
+937,,17,5,Waikato,2020-04-06,confirmed
+938,Male,,22,Southern,2020-04-06,confirmed
+939,Male,34,22,Southern,2020-04-06,confirmed
+940,Male,,22,Southern,2020-04-06,confirmed
+941,Male,34,22,Southern,2020-04-06,confirmed
+942,Female,53,22,Southern,2020-04-06,confirmed
+943,Female,40,22,Southern,2020-04-06,confirmed
+944,Female,32,22,Southern,2020-04-06,confirmed
+945,Female,26,22,Southern,2020-04-06,confirmed
+946,Female,49,1,Northland,2020-04-06,confirmed
+947,Female,46,16,Nelson Marlborough,2020-04-06,confirmed
+948,Male,24,12,MidCentral,2020-04-06,confirmed
+949,Female,29,12,MidCentral,2020-04-06,confirmed
+950,Female,22,10,Hawke's Bay,2020-04-06,confirmed
+951,Male,59,4,Counties Manukau,2020-04-06,confirmed
+952,Male,37,4,Counties Manukau,2020-04-06,confirmed
+953,Male,20,4,Counties Manukau,2020-04-06,confirmed
+954,Female,55,4,Counties Manukau,2020-04-06,confirmed
+955,Female,5,14,Capital and Coast,2020-04-06,confirmed
+956,Male,90,18,Canterbury,2020-04-06,confirmed
+957,Male,32,18,Canterbury,2020-04-06,confirmed
+958,Female,67,18,Canterbury,2020-04-06,confirmed
+959,Female,63,18,Canterbury,2020-04-06,confirmed
+960,Female,59,18,Canterbury,2020-04-06,confirmed
+961,Female,24,18,Canterbury,2020-04-06,confirmed
+962,Male,18,7,Bay of Plenty,2020-04-06,confirmed
+963,Female,25,7,Bay of Plenty,2020-04-06,confirmed
+964,Male,53,3,Auckland,2020-04-06,confirmed
+965,Female,27,3,Auckland,2020-04-06,confirmed
+966,Female,23,3,Auckland,2020-04-06,confirmed
+967,Male,50,2,Waitematā,2020-04-07,confirmed
+968,,52,2,Waitematā,2020-04-07,confirmed
+969,Male,,2,Waitematā,2020-04-07,confirmed
+970,Male,25,2,Waitematā,2020-04-07,confirmed
+971,Female,58,2,Waitematā,2020-04-07,confirmed
+972,Female,57,2,Waitematā,2020-04-07,confirmed
+973,Female,23,2,Waitematā,2020-04-07,confirmed
+974,Male,34,5,Waikato,2020-04-07,confirmed
+975,Male,31,5,Waikato,2020-04-07,confirmed
+976,Female,64,5,Waikato,2020-04-07,confirmed
+977,,25,22,Southern,2020-04-07,confirmed
+978,Male,22,22,Southern,2020-04-07,confirmed
+979,Male,21,22,Southern,2020-04-07,confirmed
+980,Female,,22,Southern,2020-04-07,confirmed
+981,Female,20,22,Southern,2020-04-07,confirmed
+982,,29,22,Southern,2020-04-07,confirmed
+983,Female,15,22,Southern,2020-04-07,confirmed
+984,Female,92,1,Northland,2020-04-07,confirmed
+985,Female,47,1,Northland,2020-04-07,confirmed
+986,Female,18,10,Hawke's Bay,2020-04-07,confirmed
+987,Male,64,4,Counties Manukau,2020-04-07,confirmed
+988,Male,36,18,Canterbury,2020-04-07,confirmed
+989,Male,53,7,Bay of Plenty,2020-04-07,confirmed
+990,Male,58,3,Auckland,2020-04-07,confirmed
+991,Female,57,2,Waitematā,2020-04-08,confirmed
+992,Female,41,2,Waitematā,2020-04-08,confirmed
+993,Female,25,2,Waitematā,2020-04-08,confirmed
+994,Female,25,2,Waitematā,2020-04-08,confirmed
+995,Male,17,22,Southern,2020-04-08,confirmed
+996,Female,40,22,Southern,2020-04-08,confirmed
+997,Female,36,19,South Canterbury,2020-04-08,confirmed
+998,Female,46,10,Hawke's Bay,2020-04-08,confirmed
+999,Male,23,4,Counties Manukau,2020-04-08,confirmed
+1000,Female,47,4,Counties Manukau,2020-04-08,confirmed
+1001,Male,44,14,Capital and Coast,2020-04-08,confirmed
+1002,Female,,14,Capital and Coast,2020-04-08,confirmed
+1003,Female,21,14,Capital and Coast,2020-04-08,confirmed
+1004,Female,62,18,Canterbury,2020-04-08,confirmed
+1005,Female,57,3,Auckland,2020-04-08,confirmed
+1006,,33,3,Auckland,2020-04-08,confirmed
+1007,Female,39,3,Auckland,2020-04-08,confirmed
+1008,Male,30,2,Waitematā,2020-04-09,confirmed
+1009,,47,2,Waitematā,2020-04-09,confirmed
+1010,Female,14,2,Waitematā,2020-04-09,confirmed
+1011,Female,11,2,Waitematā,2020-04-09,confirmed
+1012,Male,27,5,Waikato,2020-04-09,confirmed
+1013,Female,80,5,Waikato,2020-04-09,confirmed
+1014,Female,33,5,Waikato,2020-04-09,confirmed
+1015,,38,22,Southern,2020-04-09,confirmed
+1016,Female,26,22,Southern,2020-04-09,confirmed
+1017,Male,18,10,Hawke's Bay,2020-04-09,confirmed
+1018,Male,50,4,Counties Manukau,2020-04-09,confirmed
+1019,Male,16,4,Counties Manukau,2020-04-09,confirmed
+1020,Female,66,4,Counties Manukau,2020-04-09,confirmed
+1021,Female,45,4,Counties Manukau,2020-04-09,confirmed
+1022,Female,15,4,Counties Manukau,2020-04-09,confirmed
+1023,Male,44,14,Capital and Coast,2020-04-09,confirmed
+1024,Male,16,14,Capital and Coast,2020-04-09,confirmed
+1025,Male,41,18,Canterbury,2020-04-09,confirmed
+1026,Male,24,18,Canterbury,2020-04-09,confirmed
+1027,Female,57,18,Canterbury,2020-04-09,confirmed
+1028,Female,36,18,Canterbury,2020-04-09,confirmed
+1029,Female,21,18,Canterbury,2020-04-09,confirmed
+1030,Male,88,3,Auckland,2020-04-09,confirmed
+1031,Male,91,3,Auckland,2020-04-09,confirmed
+1032,Male,67,3,Auckland,2020-04-09,confirmed
+1033,,23,3,Auckland,2020-04-09,confirmed
+1034,Male,22,3,Auckland,2020-04-09,confirmed
+1035,Male,24,3,Auckland,2020-04-09,confirmed
+1036,Female,63,3,Auckland,2020-04-09,confirmed
+1037,Female,38,3,Auckland,2020-04-09,confirmed
+1038,Female,88,2,Waitematā,2020-04-10,confirmed
+1039,Female,89,2,Waitematā,2020-04-10,confirmed
+1040,Female,37,2,Waitematā,2020-04-10,confirmed
+1041,Female,24,2,Waitematā,2020-04-10,confirmed
+1042,Male,42,1,Northland,2020-04-10,confirmed
+1043,Female,23,1,Northland,2020-04-10,confirmed
+1044,Female,55,4,Counties Manukau,2020-04-10,confirmed
+1045,Female,29,7,Bay of Plenty,2020-04-10,confirmed
+1046,Male,56,2,Waitematā,2020-04-11,confirmed
+1047,Male,49,2,Waitematā,2020-04-11,confirmed
+1048,Female,55,2,Waitematā,2020-04-11,confirmed
+1049,Female,31,2,Waitematā,2020-04-11,confirmed
+1050,Female,13,2,Waitematā,2020-04-11,confirmed
+1051,,20,5,Waikato,2020-04-11,confirmed
+1052,,24,5,Waikato,2020-04-11,confirmed
+1053,Male,0,5,Waikato,2020-04-11,confirmed
+1054,Female,23,5,Waikato,2020-04-11,confirmed
+1055,Female,37,19,South Canterbury,2020-04-11,confirmed
+1056,Female,35,1,Northland,2020-04-11,confirmed
+1057,Male,51,4,Counties Manukau,2020-04-11,confirmed
+1058,Male,31,3,Auckland,2020-04-11,confirmed
+1059,Male,61,2,Waitematā,2020-04-12,confirmed
+1060,Male,61,2,Waitematā,2020-04-12,confirmed
+1061,Female,35,2,Waitematā,2020-04-12,confirmed
+1062,Female,38,2,Waitematā,2020-04-12,confirmed
+1063,,63,6,Lakes,2020-04-12,confirmed
+1064,Female,60,6,Lakes,2020-04-12,confirmed
+1065,Male,96,10,Hawke's Bay,2020-04-12,confirmed
+1066,Female,48,10,Hawke's Bay,2020-04-12,confirmed
+1067,Female,50,14,Capital and Coast,2020-04-12,confirmed
+1068,Female,42,18,Canterbury,2020-04-12,confirmed
+1069,Female,14,18,Canterbury,2020-04-12,confirmed
+1070,Male,81,2,Waitematā,2020-04-13,confirmed
+1071,Male,10,1,Northland,2020-04-13,confirmed
+1072,Female,62,18,Canterbury,2020-04-13,confirmed
+1073,Male,55,8,Tairāwhiti,2020-04-14,confirmed
+1074,Female,48,8,Tairāwhiti,2020-04-14,confirmed
+1075,Male,45,19,South Canterbury,2020-04-14,confirmed
+1076,Male,53,4,Counties Manukau,2020-04-14,confirmed
+1077,Female,,4,Counties Manukau,2020-04-14,confirmed
+1078,Female,28,18,Canterbury,2020-04-14,confirmed
+1079,Female,81,2,Waitematā,2020-04-15,confirmed
+1080,Female,17,22,Southern,2020-04-15,confirmed
+1081,Male,42,19,South Canterbury,2020-04-15,confirmed
+1082,Male,28,18,Canterbury,2020-04-15,confirmed
+1083,Male,,2,Waitematā,2020-04-16,confirmed
+1084,Female,96,2,Waitematā,2020-04-16,confirmed
+1085,,87,2,Waitematā,2020-04-16,confirmed
+1086,Female,79,2,Waitematā,2020-04-16,confirmed
+1087,Female,,2,Waitematā,2020-04-16,confirmed
+1088,Male,71,1,Northland,2020-04-16,confirmed
+1089,Male,94,4,Counties Manukau,2020-04-16,confirmed
+1090,Male,35,14,Capital and Coast,2020-04-16,confirmed
+1091,Male,85,18,Canterbury,2020-04-16,confirmed
+1092,Female,50,18,Canterbury,2020-04-16,confirmed
+1093,Female,15,18,Canterbury,2020-04-16,confirmed
+1094,Male,4,3,Auckland,2020-04-16,confirmed
+1095,Male,24,11,Whanganui,2020-04-17,confirmed
+1096,Male,87,19,South Canterbury,2020-04-17,confirmed
+1097,Male,93,12,MidCentral,2020-04-17,confirmed
+1098,Female,74,12,MidCentral,2020-04-17,confirmed
+1099,,42,6,Lakes,2020-04-17,confirmed
+1100,Female,,7,Bay of Plenty,2020-04-17,confirmed
+1101,Female,39,2,Waitematā,2020-04-18,confirmed
+1102,Male,85,4,Counties Manukau,2020-04-18,confirmed
+1103,Female,71,4,Counties Manukau,2020-04-18,confirmed
+1104,Male,63,18,Canterbury,2020-04-18,confirmed
+1105,Female,80,18,Canterbury,2020-04-18,confirmed
+1106,,62,2,Waitematā,2020-04-19,confirmed
+1107,Female,53,19,South Canterbury,2020-04-19,confirmed
+1108,Female,25,18,Canterbury,2020-04-19,confirmed
+1109,Female,26,18,Canterbury,2020-04-19,confirmed
+1110,Female,15,18,Canterbury,2020-04-19,confirmed
+1111,Male,58,7,Bay of Plenty,2020-04-19,confirmed
+1112,Female,38,7,Bay of Plenty,2020-04-19,confirmed
+1113,Female,85,5,Waikato,2020-04-21,confirmed
+1156,Female,22,2,Waitematā,2020-03-25,probable
+1157,Female,20,5,Waikato,2020-03-25,probable
+1158,,24,12,MidCentral,2020-03-25,probable
+1159,Female,44,18,Canterbury,2020-03-25,probable
+1160,Female,69,2,Waitematā,2020-03-26,probable
+1161,,60,2,Waitematā,2020-03-26,probable
+1162,Female,5,2,Waitematā,2020-03-26,probable
+1163,Female,15,9,Taranaki,2020-03-26,probable
+1164,Female,67,1,Northland,2020-03-26,probable
+1165,Female,51,14,Capital and Coast,2020-03-26,probable
+1166,Female,48,18,Canterbury,2020-03-26,probable
+1167,Female,27,18,Canterbury,2020-03-26,probable
+1168,Female,36,7,Bay of Plenty,2020-03-26,probable
+1169,Female,30,3,Auckland,2020-03-26,probable
+1170,Male,28,2,Waitematā,2020-03-27,probable
+1171,Female,49,2,Waitematā,2020-03-27,probable
+1172,Female,27,4,Counties Manukau,2020-03-27,probable
+1173,Male,31,18,Canterbury,2020-03-27,probable
+1174,Female,33,18,Canterbury,2020-03-27,probable
+1175,Female,58,3,Auckland,2020-03-27,probable
+1176,Female,0,4,Counties Manukau,2020-03-28,probable
+1177,Male,53,18,Canterbury,2020-03-28,probable
+1178,Female,41,18,Canterbury,2020-03-28,probable
+1179,Female,,18,Canterbury,2020-03-28,probable
+1180,Female,27,18,Canterbury,2020-03-28,probable
+1181,,46,3,Auckland,2020-03-28,probable
+1182,Female,38,3,Auckland,2020-03-28,probable
+1183,,88,2,Waitematā,2020-03-29,probable
+1184,Female,21,2,Waitematā,2020-03-29,probable
+1185,Female,97,19,South Canterbury,2020-03-29,probable
+1186,Male,35,12,MidCentral,2020-03-29,probable
+1187,Female,30,14,Capital and Coast,2020-03-29,probable
+1188,Female,59,18,Canterbury,2020-03-29,probable
+1189,,63,3,Auckland,2020-03-29,probable
+1190,,22,2,Waitematā,2020-03-30,probable
+1191,Male,24,2,Waitematā,2020-03-30,probable
+1192,Male,23,2,Waitematā,2020-03-30,probable
+1193,Female,24,16,Nelson Marlborough,2020-03-30,probable
+1194,Male,61,4,Counties Manukau,2020-03-30,probable
+1195,,2,4,Counties Manukau,2020-03-30,probable
+1196,,12,14,Capital and Coast,2020-03-30,probable
+1197,Male,56,3,Auckland,2020-03-30,probable
+1198,Male,41,2,Waitematā,2020-03-31,probable
+1199,Male,27,2,Waitematā,2020-03-31,probable
+1200,,12,2,Waitematā,2020-03-31,probable
+1201,Female,12,22,Southern,2020-03-31,probable
+1202,Female,3,22,Southern,2020-03-31,probable
+1203,Male,26,4,Counties Manukau,2020-03-31,probable
+1204,Male,28,4,Counties Manukau,2020-03-31,probable
+1205,Female,42,18,Canterbury,2020-03-31,probable
+1206,Female,89,7,Bay of Plenty,2020-03-31,probable
+1207,Male,68,3,Auckland,2020-03-31,probable
+1208,Male,27,3,Auckland,2020-03-31,probable
+1209,Male,24,3,Auckland,2020-03-31,probable
+1210,Female,20,3,Auckland,2020-03-31,probable
+1211,Male,,2,Waitematā,2020-04-01,probable
+1212,,66,2,Waitematā,2020-04-01,probable
+1213,Male,56,2,Waitematā,2020-04-01,probable
+1214,Male,21,2,Waitematā,2020-04-01,probable
+1215,Female,22,2,Waitematā,2020-04-01,probable
+1216,,3,5,Waikato,2020-04-01,probable
+1217,Male,26,22,Southern,2020-04-01,probable
+1218,Male,56,16,Nelson Marlborough,2020-04-01,probable
+1219,Male,31,14,Capital and Coast,2020-04-01,probable
+1220,Female,38,14,Capital and Coast,2020-04-01,probable
+1221,Female,50,18,Canterbury,2020-04-01,probable
+1222,,37,18,Canterbury,2020-04-01,probable
+1223,Female,12,3,Auckland,2020-04-01,probable
+1224,Male,52,2,Waitematā,2020-04-02,probable
+1225,Male,40,2,Waitematā,2020-04-02,probable
+1226,Male,39,2,Waitematā,2020-04-02,probable
+1227,Male,22,2,Waitematā,2020-04-02,probable
+1228,Male,29,2,Waitematā,2020-04-02,probable
+1229,,53,2,Waitematā,2020-04-02,probable
+1230,Female,19,2,Waitematā,2020-04-02,probable
+1231,Male,49,15,Wairarapa,2020-04-02,probable
+1232,Female,51,15,Wairarapa,2020-04-02,probable
+1233,Male,1,5,Waikato,2020-04-02,probable
+1234,Male,56,22,Southern,2020-04-02,probable
+1235,Male,2,10,Hawke's Bay,2020-04-02,probable
+1236,Female,,10,Hawke's Bay,2020-04-02,probable
+1237,Female,74,10,Hawke's Bay,2020-04-02,probable
+1238,Female,,4,Counties Manukau,2020-04-02,probable
+1239,Female,38,14,Capital and Coast,2020-04-02,probable
+1240,Female,23,14,Capital and Coast,2020-04-02,probable
+1241,,35,18,Canterbury,2020-04-02,probable
+1242,Female,66,18,Canterbury,2020-04-02,probable
+1243,Female,40,18,Canterbury,2020-04-02,probable
+1244,Female,30,18,Canterbury,2020-04-02,probable
+1245,Female,15,18,Canterbury,2020-04-02,probable
+1246,Female,30,7,Bay of Plenty,2020-04-02,probable
+1247,Male,50,2,Waitematā,2020-04-03,probable
+1248,Male,27,2,Waitematā,2020-04-03,probable
+1249,Male,17,5,Waikato,2020-04-03,probable
+1250,Female,37,5,Waikato,2020-04-03,probable
+1251,Male,21,22,Southern,2020-04-03,probable
+1252,Female,60,16,Nelson Marlborough,2020-04-03,probable
+1253,Female,42,13,Hutt Valley,2020-04-03,probable
+1254,Female,26,4,Counties Manukau,2020-04-03,probable
+1255,Male,64,14,Capital and Coast,2020-04-03,probable
+1256,Male,59,14,Capital and Coast,2020-04-03,probable
+1257,Male,16,14,Capital and Coast,2020-04-03,probable
+1258,Male,91,18,Canterbury,2020-04-03,probable
+1259,Male,94,18,Canterbury,2020-04-03,probable
+1260,,98,18,Canterbury,2020-04-03,probable
+1261,Female,72,18,Canterbury,2020-04-03,probable
+1262,Female,58,18,Canterbury,2020-04-03,probable
+1263,Female,37,18,Canterbury,2020-04-03,probable
+1264,Female,23,7,Bay of Plenty,2020-04-03,probable
+1265,,63,3,Auckland,2020-04-03,probable
+1266,,28,3,Auckland,2020-04-03,probable
+1267,Male,59,2,Waitematā,2020-04-04,probable
+1268,Male,55,2,Waitematā,2020-04-04,probable
+1269,Male,,2,Waitematā,2020-04-04,probable
+1270,Male,21,2,Waitematā,2020-04-04,probable
+1271,Male,20,2,Waitematā,2020-04-04,probable
+1272,,11,2,Waitematā,2020-04-04,probable
+1273,Female,54,2,Waitematā,2020-04-04,probable
+1274,Female,29,2,Waitematā,2020-04-04,probable
+1275,Female,29,2,Waitematā,2020-04-04,probable
+1276,Female,16,2,Waitematā,2020-04-04,probable
+1277,Male,34,5,Waikato,2020-04-04,probable
+1278,Female,6,5,Waikato,2020-04-04,probable
+1279,Male,54,22,Southern,2020-04-04,probable
+1280,Male,35,16,Nelson Marlborough,2020-04-04,probable
+1281,Female,58,16,Nelson Marlborough,2020-04-04,probable
+1282,Male,19,12,MidCentral,2020-04-04,probable
+1283,Female,28,4,Counties Manukau,2020-04-04,probable
+1284,Male,62,14,Capital and Coast,2020-04-04,probable
+1285,Female,50,14,Capital and Coast,2020-04-04,probable
+1286,Female,2,14,Capital and Coast,2020-04-04,probable
+1287,Male,91,18,Canterbury,2020-04-04,probable
+1288,Male,78,18,Canterbury,2020-04-04,probable
+1289,Female,99,18,Canterbury,2020-04-04,probable
+1290,Female,56,18,Canterbury,2020-04-04,probable
+1291,Female,49,18,Canterbury,2020-04-04,probable
+1292,Female,35,18,Canterbury,2020-04-04,probable
+1293,Female,37,18,Canterbury,2020-04-04,probable
+1294,Male,27,3,Auckland,2020-04-04,probable
+1295,Male,22,3,Auckland,2020-04-04,probable
+1296,Male,9,3,Auckland,2020-04-04,probable
+1297,Female,,3,Auckland,2020-04-04,probable
+1298,Male,48,17,West Coast,2020-04-05,probable
+1299,Male,28,2,Waitematā,2020-04-05,probable
+1300,Male,14,2,Waitematā,2020-04-05,probable
+1301,Male,13,2,Waitematā,2020-04-05,probable
+1302,,33,2,Waitematā,2020-04-05,probable
+1303,Female,37,5,Waikato,2020-04-05,probable
+1304,Male,56,22,Southern,2020-04-05,probable
+1305,Male,0,22,Southern,2020-04-05,probable
+1306,Female,57,22,Southern,2020-04-05,probable
+1307,Male,70,16,Nelson Marlborough,2020-04-05,probable
+1308,,92,16,Nelson Marlborough,2020-04-05,probable
+1309,Female,13,16,Nelson Marlborough,2020-04-05,probable
+1310,Female,16,12,MidCentral,2020-04-05,probable
+1311,Female,16,13,Hutt Valley,2020-04-05,probable
+1312,Male,68,10,Hawke's Bay,2020-04-05,probable
+1313,,59,4,Counties Manukau,2020-04-05,probable
+1314,Female,43,4,Counties Manukau,2020-04-05,probable
+1315,Female,15,4,Counties Manukau,2020-04-05,probable
+1316,Male,32,18,Canterbury,2020-04-05,probable
+1317,Female,34,18,Canterbury,2020-04-05,probable
+1318,Female,25,18,Canterbury,2020-04-05,probable
+1319,Female,60,3,Auckland,2020-04-05,probable
+1320,Female,46,3,Auckland,2020-04-05,probable
+1321,Female,36,3,Auckland,2020-04-05,probable
+1322,Female,15,3,Auckland,2020-04-05,probable
+1323,Female,10,3,Auckland,2020-04-05,probable
+1324,Female,34,2,Waitematā,2020-04-06,probable
+1325,Male,53,5,Waikato,2020-04-06,probable
+1326,Female,53,5,Waikato,2020-04-06,probable
+1327,,,5,Waikato,2020-04-06,probable
+1328,Female,20,5,Waikato,2020-04-06,probable
+1329,Female,18,5,Waikato,2020-04-06,probable
+1330,Male,,16,Nelson Marlborough,2020-04-06,probable
+1331,Male,6,4,Counties Manukau,2020-04-06,probable
+1332,Female,52,4,Counties Manukau,2020-04-06,probable
+1333,Female,33,4,Counties Manukau,2020-04-06,probable
+1334,Male,55,14,Capital and Coast,2020-04-06,probable
+1335,Male,61,18,Canterbury,2020-04-06,probable
+1336,Male,58,18,Canterbury,2020-04-06,probable
+1337,Male,36,18,Canterbury,2020-04-06,probable
+1338,Male,24,18,Canterbury,2020-04-06,probable
+1339,Female,26,18,Canterbury,2020-04-06,probable
+1340,Male,31,7,Bay of Plenty,2020-04-06,probable
+1341,Female,48,7,Bay of Plenty,2020-04-06,probable
+1342,Male,34,3,Auckland,2020-04-06,probable
+1343,Male,,3,Auckland,2020-04-06,probable
+1344,Female,8,3,Auckland,2020-04-06,probable
+1345,Male,23,2,Waitematā,2020-04-07,probable
+1346,Female,48,2,Waitematā,2020-04-07,probable
+1347,Male,51,5,Waikato,2020-04-07,probable
+1348,Female,,5,Waikato,2020-04-07,probable
+1349,Male,26,22,Southern,2020-04-07,probable
+1350,Female,49,22,Southern,2020-04-07,probable
+1351,Female,46,16,Nelson Marlborough,2020-04-07,probable
+1352,Female,12,16,Nelson Marlborough,2020-04-07,probable
+1353,Female,51,4,Counties Manukau,2020-04-07,probable
+1354,,53,18,Canterbury,2020-04-07,probable
+1355,Female,31,18,Canterbury,2020-04-07,probable
+1356,Female,36,18,Canterbury,2020-04-07,probable
+1357,Female,,3,Auckland,2020-04-07,probable
+1358,Female,23,2,Waitematā,2020-04-08,probable
+1359,Female,62,5,Waikato,2020-04-08,probable
+1360,Female,41,5,Waikato,2020-04-08,probable
+1361,Female,47,5,Waikato,2020-04-08,probable
+1362,,24,22,Southern,2020-04-08,probable
+1363,Male,36,18,Canterbury,2020-04-08,probable
+1364,Male,2,18,Canterbury,2020-04-08,probable
+1365,Female,36,18,Canterbury,2020-04-08,probable
+1366,Female,39,18,Canterbury,2020-04-08,probable
+1367,Female,29,18,Canterbury,2020-04-08,probable
+1368,Male,44,3,Auckland,2020-04-08,probable
+1369,Female,55,22,Southern,2020-04-09,probable
+1370,Female,29,22,Southern,2020-04-09,probable
+1371,Male,25,1,Northland,2020-04-09,probable
+1372,Female,35,10,Hawke's Bay,2020-04-09,probable
+1373,Male,40,18,Canterbury,2020-04-09,probable
+1374,Male,30,18,Canterbury,2020-04-09,probable
+1375,Female,28,18,Canterbury,2020-04-09,probable
+1376,Female,11,18,Canterbury,2020-04-09,probable
+1377,Female,14,18,Canterbury,2020-04-09,probable
+1378,Female,3,7,Bay of Plenty,2020-04-09,probable
+1379,Female,2,7,Bay of Plenty,2020-04-09,probable
+1380,Male,7,3,Auckland,2020-04-09,probable
+1381,Male,2,3,Auckland,2020-04-09,probable
+1382,Female,27,3,Auckland,2020-04-09,probable
+1383,,32,2,Waitematā,2020-04-10,probable
+1384,Male,21,2,Waitematā,2020-04-10,probable
+1385,Female,43,2,Waitematā,2020-04-10,probable
+1386,Female,43,5,Waikato,2020-04-10,probable
+1387,Female,21,5,Waikato,2020-04-10,probable
+1388,Male,24,22,Southern,2020-04-10,probable
+1389,Male,19,22,Southern,2020-04-10,probable
+1390,Female,36,22,Southern,2020-04-10,probable
+1391,Female,23,22,Southern,2020-04-10,probable
+1392,,23,22,Southern,2020-04-10,probable
+1393,Female,67,6,Lakes,2020-04-10,probable
+1394,Female,20,10,Hawke's Bay,2020-04-10,probable
+1395,Female,57,18,Canterbury,2020-04-10,probable
+1396,Female,39,18,Canterbury,2020-04-10,probable
+1397,Female,54,7,Bay of Plenty,2020-04-10,probable
+1398,Male,35,3,Auckland,2020-04-10,probable
+1399,Female,72,3,Auckland,2020-04-10,probable
+1400,,85,3,Auckland,2020-04-10,probable
+1401,Female,40,3,Auckland,2020-04-10,probable
+1402,,6,2,Waitematā,2020-04-11,probable
+1403,Female,45,2,Waitematā,2020-04-11,probable
+1404,,45,2,Waitematā,2020-04-11,probable
+1405,Female,50,5,Waikato,2020-04-11,probable
+1406,Female,36,5,Waikato,2020-04-11,probable
+1407,Female,25,5,Waikato,2020-04-11,probable
+1408,Female,,5,Waikato,2020-04-11,probable
+1409,Female,1,5,Waikato,2020-04-11,probable
+1410,,49,8,Tairāwhiti,2020-04-11,probable
+1411,Male,46,18,Canterbury,2020-04-11,probable
+1412,Male,45,3,Auckland,2020-04-11,probable
+1413,Female,22,3,Auckland,2020-04-11,probable
+1414,Male,,22,Southern,2020-04-12,probable
+1415,Male,54,22,Southern,2020-04-12,probable
+1416,Male,51,22,Southern,2020-04-12,probable
+1417,,23,22,Southern,2020-04-12,probable
+1418,Male,19,14,Capital and Coast,2020-04-12,probable
+1419,Male,12,18,Canterbury,2020-04-12,probable
+1420,Male,42,3,Auckland,2020-04-12,probable
+1421,Female,45,3,Auckland,2020-04-12,probable
+1422,Female,49,3,Auckland,2020-04-12,probable
+1423,,14,2,Waitematā,2020-04-13,probable
+1424,Female,95,2,Waitematā,2020-04-13,probable
+1425,Female,53,2,Waitematā,2020-04-13,probable
+1426,Female,18,2,Waitematā,2020-04-13,probable
+1427,Female,,2,Waitematā,2020-04-13,probable
+1428,Female,10,22,Southern,2020-04-13,probable
+1429,Female,22,4,Counties Manukau,2020-04-13,probable
+1430,,74,3,Auckland,2020-04-13,probable
+1431,Female,37,5,Waikato,2020-04-14,probable
+1432,,54,22,Southern,2020-04-14,probable
+1433,Male,33,22,Southern,2020-04-14,probable
+1434,,68,4,Counties Manukau,2020-04-14,probable
+1435,Male,,7,Bay of Plenty,2020-04-14,probable
+1436,Female,30,7,Bay of Plenty,2020-04-14,probable
+1437,Female,5,7,Bay of Plenty,2020-04-14,probable
+1438,Female,57,3,Auckland,2020-04-14,probable
+1439,Male,6,5,Waikato,2020-04-15,probable
+1440,Female,1,5,Waikato,2020-04-15,probable
+1441,Male,55,12,MidCentral,2020-04-15,probable
+1442,Male,51,14,Capital and Coast,2020-04-15,probable
+1443,Female,63,14,Capital and Coast,2020-04-15,probable
+1444,Female,44,14,Capital and Coast,2020-04-15,probable
+1445,Female,26,18,Canterbury,2020-04-15,probable
+1446,,45,2,Waitematā,2020-04-16,probable
+1447,Female,58,5,Waikato,2020-04-16,probable
+1448,Male,,22,Southern,2020-04-16,probable
+1449,Male,85,3,Auckland,2020-04-16,probable
+1450,Female,50,2,Waitematā,2020-04-17,probable
+1451,Male,0,22,Southern,2020-04-17,probable
+1452,Female,,22,Southern,2020-04-17,probable
+1453,Female,31,14,Capital and Coast,2020-04-17,probable
+1454,Male,56,3,Auckland,2020-04-17,probable
+1455,Female,33,3,Auckland,2020-04-17,probable
+1456,Male,20,2,Waitematā,2020-04-18,probable
+1457,Female,29,2,Waitematā,2020-04-18,probable
+1458,Female,8,2,Waitematā,2020-04-18,probable
+1459,Female,,5,Waikato,2020-04-18,probable
+1460,Female,41,3,Auckland,2020-04-18,probable
+1461,Male,22,11,Whanganui,2020-04-19,probable
+1462,Female,35,2,Waitematā,2020-04-19,probable
+1463,Female,28,5,Waikato,2020-04-19,probable
+1464,Female,34,14,Capital and Coast,2020-04-20,probable
+1465,Female,21,14,Capital and Coast,2020-04-20,probable
+1466,Female,66,18,Canterbury,2020-04-20,probable
+1467,Male,45,4,Counties Manukau,2020-04-21,probable
+1468,Female,10,4,Counties Manukau,2020-04-21,probable
+1469,Male,96,18,Canterbury,2020-04-21,probable
+1470,Female,62,18,Canterbury,2020-04-21,probable
+1471,Female,57,3,Auckland,2020-04-21,probable
